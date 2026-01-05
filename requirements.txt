@@ -1,0 +1,9 @@
+fastapi==0.111.2
+uvicorn[standard]==0.23.2
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+python-jose==3.3.0
+passlib[bcrypt]==1.7.5
+pydantic==2.5.1
+pytest==8.1.0
+httpx==1.6.6
